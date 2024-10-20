@@ -37,9 +37,7 @@ The following analyses were performed in the Jupyter Notebook:
 
 - **Price Analysis**:Analyzed the selling price of cars in relation to different features through scatter plots.
 ## Usage
-You can modify the analysis by changing the dataset or parameters in the visualizations. 
-
-The notebook provides a starting point for further exploration of the used car market.
+You can modify the analysis by changing the dataset or parameters in the visualizations.The notebook provides a starting point for further exploration of the used car market.
 
 ## Results
 - The most popular car brands and models in the dataset.
