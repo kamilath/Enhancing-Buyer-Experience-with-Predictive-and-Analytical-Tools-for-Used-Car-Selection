@@ -31,16 +31,7 @@ The following analyses were performed in the Jupyter Notebook:
 
 - **Data Exploration**:Loaded and cleaned the dataset, including renaming columns and setting the index.
 
-- **Data Visualization**:
-
-***Created visualizations to analyze***:
-Highest selling cars by brand
-
-Distribution of car models
-
-Fuel type and seller type proportions
-
-Mileage and vehicle age statistics
+- **Data Visualization**:Highest selling cars by brand, Distribution of car models, Fuel type and seller type proportions, Mileage and vehicle age statistics
 
 - **Statistical Analysis**:Summary statistics of the dataset, including mean, max, and min values for various features.
 
