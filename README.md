@@ -40,6 +40,9 @@ The following analyses were performed in the Jupyter Notebook:
 You can modify the analysis by changing the dataset or parameters in the visualizations. The notebook provides a starting point for further exploration of the used car market.
 ## Results
 1.The most popular car brands and models in the dataset.
+
 2.Distribution of fuel types and seller types.
+
 3.Mileage statistics that help in understanding the efficiency of different cars.
+
 4.Price analysis that can assist buyers in budgeting for their purchase.
