@@ -42,4 +42,7 @@ You can modify the analysis by changing the dataset or parameters in the visuali
 The notebook provides a starting point for further exploration of the used car market.
 
 ## Results
-The most popular car brands and models in the dataset.Distribution of fuel types and seller types.Mileage statistics that help in understanding the efficiency of different cars.Price analysis that can assist buyers in budgeting for their purchase.
+- The most popular car brands and models in the dataset.
+- Distribution of fuel types and seller types.
+- Mileage statistics that help in understanding the efficiency of different cars.
+- Price analysis that can assist buyers in budgeting for their purchase.
