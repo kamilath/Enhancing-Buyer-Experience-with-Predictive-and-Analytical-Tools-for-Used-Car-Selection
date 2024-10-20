@@ -35,9 +35,13 @@ The following analyses were performed in the Jupyter Notebook:
 
 ***Created visualizations to analyze***:
 Highest selling cars by brand
+
 Distribution of car models
+
 Fuel type and seller type proportions
+
 Mileage and vehicle age statistics
+
 **Statistical Analysis**:Summary statistics of the dataset, including mean, max, and min values for various features.
 
 **Price Analysis**:Analyzed the selling price of cars in relation to different features through scatter plots.
