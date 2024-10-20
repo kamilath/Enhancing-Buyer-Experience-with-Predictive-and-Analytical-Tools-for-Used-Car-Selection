@@ -3,29 +3,29 @@ This project analyzes a dataset from CarDekho to enhance the buyer experience wh
 ## Technologies Used
 - Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 ## Dataset
 The dataset used for this analysis is the CarDekho Dataset, which contains information about various used cars available for sale, including features such as:
 
-Selling price
+- Selling price
 
-Car brand and model
+- Car brand and model
 
-Fuel type
+- Fuel type
 
-Mileage
+- Mileage
 
-Vehicle age
+- Vehicle age
 
-Seller type
+- Seller type
 ## Analysis Overview
 The following analyses were performed in the Jupyter Notebook:
 
