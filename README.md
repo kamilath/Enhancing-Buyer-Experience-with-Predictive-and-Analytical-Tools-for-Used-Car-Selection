@@ -29,9 +29,9 @@ The dataset used for this analysis is the CarDekho Dataset, which contains infor
 ## Analysis Overview
 The following analyses were performed in the Jupyter Notebook:
 
-**Data Exploration**:Loaded and cleaned the dataset, including renaming columns and setting the index.
+- **Data Exploration**:Loaded and cleaned the dataset, including renaming columns and setting the index.
 
-**Data Visualization**:
+- **Data Visualization**:
 
 ***Created visualizations to analyze***:
 Highest selling cars by brand
@@ -42,9 +42,9 @@ Fuel type and seller type proportions
 
 Mileage and vehicle age statistics
 
-**Statistical Analysis**:Summary statistics of the dataset, including mean, max, and min values for various features.
+- **Statistical Analysis**:Summary statistics of the dataset, including mean, max, and min values for various features.
 
-**Price Analysis**:Analyzed the selling price of cars in relation to different features through scatter plots.
+- **Price Analysis**:Analyzed the selling price of cars in relation to different features through scatter plots.
 ## Usage
 You can modify the analysis by changing the dataset or parameters in the visualizations. 
 
