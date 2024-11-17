@@ -1,4 +1,4 @@
-# Enhancing-Buyer-
+# Enhancing-Buyer-Experience-with-Predictive-and-Analytical-Tools-for-Used-Car-Selection
 This project analyzes a dataset from CarDekho to enhance the buyer experience when selecting used cars. By leveraging predictive and analytical tools, the aim is to provide insights into the used car market, helping buyers make informed decisions based on various factors such as price, brand, fuel type, mileage, and more.
 ## Technologies Used
 - Python
